@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaushal1214
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kaushal.
+- 👀 IoT projects interests me
+- 🌱 I’m currently learning Cloud Services
+- 💞️ I’m looking to collaborate on Kafka projects
+
 
 <!---
 kaushal1214/kaushal1214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
